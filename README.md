@@ -12,6 +12,7 @@ nekonugget.Love('💕')
 
 🩷 Love linux.
 🩷 Love hacking.
+🩷 Python, Go, Bash :) 
 ```
 
 
